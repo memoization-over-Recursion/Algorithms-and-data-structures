@@ -1,5 +1,6 @@
 import java.util.*;
-
+//Time complexity O(n+m)
+//space complexity O(m)
 public class KMPAlgorithm{
   public static boolean knuthMorrisPrattAlgorithm(String string, String substring) {
      int i = 0;

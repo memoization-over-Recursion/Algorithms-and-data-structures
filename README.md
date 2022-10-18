@@ -1,5 +1,6 @@
 # Algorithms and Data structures
 
+My repository for showing different and new ways to look at code and to allow me to deveop my skills in Algorithms and data structures. Code will be mostly within Java but will have some various languages throughout 
 
 
 

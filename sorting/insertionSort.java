@@ -1,4 +1,5 @@
-import java.util.*;
+package sorting;
+
 public class insertionSort {
     // best time O(n) / space O(1)
     // average O(N^2) / O(1) space

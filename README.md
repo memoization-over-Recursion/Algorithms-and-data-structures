@@ -6,12 +6,13 @@ My repository for showing different and new ways to look at code and to allow me
 Some algorithms presented here include
 * [The Knuth-Morris-Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) string matching algorithm
 * [Kadanes algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem) for max subarrays
-
+* [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+* [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
+* [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
 
 
 ## Sources
 * "Introduction to algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  
-
 * "Beginning Java Data Structurres and Algoriithms" by Packt   
 * Leetcode
 * Hackerrank

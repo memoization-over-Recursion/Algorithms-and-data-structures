@@ -9,7 +9,7 @@ Some algorithms presented here include
 * [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 * [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
 * [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
-
+* [radix sort](https://en.wikipedia.org/wiki/Radix_sort)
 
 ## Sources
 * "Introduction to algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  

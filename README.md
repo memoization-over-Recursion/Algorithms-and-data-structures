@@ -11,6 +11,8 @@ Some algorithms presented here include
 * [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
 * [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
 * [Merge Sort and unsorted metric](https://medium.com/@ssbothwell/counting-inversions-with-merge-sort-4d9910dc95f0)
+* [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
+
 
 ## Sources
 * "Introduction to algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  

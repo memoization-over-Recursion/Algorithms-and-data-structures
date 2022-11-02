@@ -1,7 +1,7 @@
 package numberOfWaysToTraverseAGraph;
 //time complexity O( mn )
 //space complexity O( mn )
-public class numOfWaysOfTraverseGraph {
+public class numOfWaysOfTraverseGraphDyn {
 
     public int numberOfWaysToTraverseGraph(int width, int height) {
         int[][] ways = new int[width + 1][height + 1];

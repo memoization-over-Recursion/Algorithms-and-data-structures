@@ -12,6 +12,7 @@ Some algorithms presented here include
 * [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
 * [Merge Sort and unsorted metric](https://medium.com/@ssbothwell/counting-inversions-with-merge-sort-4d9910dc95f0)
 * [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
+* [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 
 
 ## Sources

@@ -1,7 +1,7 @@
 package minNumOfJumps;
 import java.util.*;
 // time complexity O( n^2 )
-// space complexity O( 1 )
+// space complexity O( n )
 public class minimumNumberOfJumpsNaive {
     public static int minNumberOfJumps(int[] array) {
         int[] copy = new int[array.length];

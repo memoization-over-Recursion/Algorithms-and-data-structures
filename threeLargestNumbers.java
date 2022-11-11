@@ -1,6 +1,6 @@
 //time complexity O( n )
 //space complexity O( 1 )
-class Program {
+public class threeLargestNumbers {
     public static int[] findThreeLargestNumbers(int[] array) {
         int[] finalAr = { Integer.MIN_VALUE, Integer.MIN_VALUE, Integer.MIN_VALUE };
         for (int i = 0; i < array.length; i++) {

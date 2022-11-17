@@ -13,7 +13,7 @@ Some algorithms presented here include
 * [Merge Sort and unsorted metric](https://medium.com/@ssbothwell/counting-inversions-with-merge-sort-4d9910dc95f0)
 * [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
 * [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
-
+* [Topological Sort](https://en.wikipedia.org/wiki/Topological_sorting) for job selection
 
 ## Sources
 * "Introduction to algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  

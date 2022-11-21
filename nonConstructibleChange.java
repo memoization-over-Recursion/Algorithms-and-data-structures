@@ -5,7 +5,7 @@ import java.util.*;
 // time complexity O( nlog( n ) )
 // space complexity O( 1 )
 public class nonConstructibleChange {
-    // each value is uniquee and can only be used once
+    // each value is unique and can only be used once
     public int nonConstructChange(int[] coins) {
         Arrays.sort(coins);
         int change = 0;

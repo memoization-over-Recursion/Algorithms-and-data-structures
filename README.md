@@ -14,6 +14,12 @@ Some algorithms presented here include
 * [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
 * [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 * [Topological Sort](https://en.wikipedia.org/wiki/Topological_sorting) for job selection
+* [Djikstra algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) using heaps and normal data types
+
+Some Data Structures presented here include
+* [Heaps](https://en.wikipedia.org/wiki/Heap_(data_structure))
+* [Arrays](https://www.geeksforgeeks.org/what-is-array/)
+* [Stacks](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 
 ## Sources
 * "Introduction to algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  

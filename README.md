@@ -19,7 +19,7 @@ Some algorithms presented here include
 Some Data Structures presented here include
 * [Heaps](https://en.wikipedia.org/wiki/Heap_(data_structure))
 * [Arrays](https://www.geeksforgeeks.org/what-is-array/)
-* [Stacks](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+* [Stacks](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Tries](https://en.wikipedia.org/wiki/Trie)
 
 

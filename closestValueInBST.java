@@ -1,5 +1,5 @@
 
-class closestValueInBT {
+class closestValueInBST {
   // avg O(log n) time O(log n) space
   // worst O(n) time O(n) space
   public static int CLOSEST = Integer.MAX_VALUE;

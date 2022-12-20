@@ -22,7 +22,7 @@ Some Data Structures presented here include
 * [Arrays](https://www.geeksforgeeks.org/what-is-array/)
 * [Stacks](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Tries](https://en.wikipedia.org/wiki/Trie)
-
+* [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
 
 ## Sources
 * "Introduction to algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  

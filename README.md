@@ -23,10 +23,11 @@ Some Data Structures presented here include
 * [Stacks](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Tries](https://en.wikipedia.org/wiki/Trie)
 * [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
+* [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
 ## Sources
 * "Introduction to algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  
-* "Beginning Java Data Structurres and Algoriithms" by Packt   
+* "Beginning Java Data Structures and Algoriithms" by Packt   
 * Leetcode
 * Hackerrank
 * Algoexpert

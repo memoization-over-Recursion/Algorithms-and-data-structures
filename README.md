@@ -16,6 +16,8 @@ Some algorithms presented here include
 * [Topological Sort](https://en.wikipedia.org/wiki/Topological_sorting) for job selection
 * [Djikstra Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) using heaps and normal data types
 * [A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+* [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+
 
 Some Data Structures presented here include
 * [Heaps](https://en.wikipedia.org/wiki/Heap_(data_structure))

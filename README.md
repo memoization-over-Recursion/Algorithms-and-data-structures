@@ -17,6 +17,7 @@ Some algorithms presented here include
 * [Djikstra Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) using heaps and normal data types
 * [A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 * [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [Kruskals Algorithm](https://en.wikipedia.org/wiki/Kruskal's_algorithm)
 
 
 Some Data Structures presented here include

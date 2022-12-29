@@ -26,6 +26,7 @@ Some Data Structures presented here include
 * [Tries](https://en.wikipedia.org/wiki/Trie)
 * [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
 * [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+* [Disjoint Set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 
 ## Sources
 * "Introduction to algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  

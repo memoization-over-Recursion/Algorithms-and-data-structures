@@ -1,4 +1,4 @@
-# This is an input class. Do not edit.
+
 class Node:
     def __init__(self, value):
         self.value = value
@@ -6,7 +6,7 @@ class Node:
         self.next = None
 
 
-# Feel free to add new properties and methods to the class.
+
 class DoublyLinkedList:
     def __init__(self):
         self.head = None

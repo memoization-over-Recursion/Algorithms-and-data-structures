@@ -18,7 +18,7 @@ Some algorithms presented here include
 * [A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 * [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 * [Kruskals Algorithm](https://en.wikipedia.org/wiki/Kruskal's_algorithm)
-
+* [Bellman-Ford Algorithm](https://en.wikipedia.org/wiki/Bellman–Ford_algorithm)
 
 Some Data Structures presented here include
 * [Heaps](https://en.wikipedia.org/wiki/Heap_(data_structure))
